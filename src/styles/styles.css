@@ -1,0 +1,46 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Artifika&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+
+
+
+/* .artifika {
+  font-family: "Artifika", serif !important;
+} */
+
+@font-face {
+  font-family: "Futura-Bold";
+  src: url("../assets/fonts/Futura Md BT Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Futura-Regular";
+  src: url("../assets/fonts/Futura Md BT Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Utility classes */
+.futura-bold {
+  font-family: "Futura-Bold", sans-serif !important;
+}
+
+.futura-regular {
+  font-family: "Futura-Regular", sans-serif !important;
+}
+
+.fs-7 {
+  font-size: 10px !important
+}
+
+.w-15 {
+  width: 15%;
+}
+
+.text-green {
+  color: #53713d;
+}
