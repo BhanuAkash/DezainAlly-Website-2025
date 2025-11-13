@@ -8,9 +8,31 @@ import ComingSoon from "./components/ComingSoon";
 function App() {
   return (
     <div>
+      
       <ComingSoon />
     </div>
   );
 }
 
 export default App;
+
+// import WexLogoAnimation from "./components/WexLogoAnimation";
+
+// function App() {
+//   return (
+//     <div
+//       style={{
+//         height: "100vh",
+//         display: "flex",
+//         justifyContent: "center",
+//         alignItems: "center",
+//         background: "#fff",
+//       }}
+//     >
+//       <WexLogoAnimation />
+//     </div>
+//   );
+// }
+
+// export default App;
+
