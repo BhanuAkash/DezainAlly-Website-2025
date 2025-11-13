@@ -18,13 +18,8 @@ export default function WexLogoAnimation() {
 
   return (
     <div
-      style={{
-        height: "320px", // reduce this to remove the big gap
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        overflow: "hidden", // prevents shrinking
-      }}
+    className="anime-container"
+      
     >
       <div
         ref={animContainer}

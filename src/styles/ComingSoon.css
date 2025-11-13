@@ -9,8 +9,8 @@
 
 .main-display {
     /* perspective: 1000px; */
-    /* background: white; */
-    background: black;
+    background: white;
+    /* background: black; */
 }
 
 .main-display {
@@ -262,7 +262,7 @@
 }
 
 .second-line {
-    font-size: 6rem;
+    font-size: 5rem;
     line-height: 0.8;
 }
 
@@ -271,7 +271,7 @@
 }
 
 .third-line {
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 .fourth-line {
@@ -387,7 +387,7 @@
     }
 
     .second-line {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     .second-line span {
@@ -395,7 +395,7 @@
     }
 
     .third-line {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
 
     .fourth-line {

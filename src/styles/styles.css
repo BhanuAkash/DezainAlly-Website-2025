@@ -44,3 +44,17 @@
 .text-green {
   color: #53713d;
 }
+
+.anime-container {
+  height: 230px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .anime-container {
+    height: 100px;
+  }
+}
