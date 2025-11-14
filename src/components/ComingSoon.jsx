@@ -578,8 +578,8 @@ const ComingSoon = () => {
 
                 <motion.h1
                     className="fw-bold mb-4 second-line futura-font text-uppercase  text-green"
-                    initial={{ y: 260, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
                     transition={{
                         duration: 3,
                         ease: [0.25, 0.1, 0.25, 1],
@@ -592,8 +592,8 @@ const ComingSoon = () => {
 
                 <motion.h6
                     className="fw-medium third-line futura-regular  mb-1 text-green"
-                    initial={{ y: 260, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
                     transition={{
                         duration: 3,
                         ease: [0.25, 0.1, 0.25, 1],
